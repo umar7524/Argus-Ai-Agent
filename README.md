@@ -1,4 +1,4 @@
-# ARGUS — MCP-Powered AI Research & Productivity Assistant
+# ARGUS - MCP Powered AI Research & Productivity Assistant
 
 **A local-first agentic AI application that connects language-model reasoning with real-world tools through the Model Context Protocol (MCP).**
 
