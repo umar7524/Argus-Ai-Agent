@@ -1,0 +1,33 @@
+# Never publish credentials or local configuration
+.env
+.env.*
+!.env.example
+credentials.json
+**/credentials.json
+**/*token*.json
+**/*secret*.json
+*.pem
+*.key
+
+# User-owned documents and local app state
+vault/
+data/
+!.gitkeep
+
+# Python / editors
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+*.log
+
+# Bundles and temporary files
+*.zip
+*.tmp

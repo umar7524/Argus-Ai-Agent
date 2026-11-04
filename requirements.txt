@@ -1,0 +1,16 @@
+# Compatible package names inferred from supplied imports; versions are not pinned/tested.
+streamlit
+python-dotenv
+mcp
+openai
+tavily-python
+pypdf
+PyMuPDF
+reportlab
+python-docx
+openpyxl
+xlrd
+python-pptx
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
